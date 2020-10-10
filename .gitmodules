@@ -1,0 +1,6 @@
+[submodule "Site"]
+	path = Site
+	url = https://github.com/LeonMovsisayn/Practice10.10.2020.git
+[submodule "Server"]
+	path = Server
+	url = https://github.com/LeonMovsisayn/sample_server.git
